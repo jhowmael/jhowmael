@@ -1,5 +1,5 @@
 <div display="inline">
-  <img width="40" right="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
   &nbsp;&nbsp;
   <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cakephp/cakephp-original.svg" />
   &nbsp;&nbsp;
