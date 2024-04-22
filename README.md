@@ -1,16 +1,8 @@
 <ul>
-  <li>
-    👨‍💻 I’m currently working at SKY Brasil
-  </li>
-  👨‍💼 I work as a back-end developer
-  
-  🎓 Graduated in Systems Analysis and Development
-  
-  👨‍🎓 Currently studying Cloud AWS
-  
-  💬 Ask me about Node.JS, Typescript, MongoDB and Linux
-  
-  📽️ I ❤️ movies and series
+  <li>👨‍💻 I’m currently working at Alm Brasil </li>
+  <li>👨‍💼 I work as a back-end developer </li>
+  <li>🎓 I'm majoring in computer engineering </li>
+  <li>👨‍🎓 Currently studying Laravel </li>
 </ul>
 <div display="inline">
   <img height="190em" src="https://github-readme-stats.vercel.app/api?username=jhowmael&show_icons=true&theme=omni"/>
