@@ -1,7 +1,6 @@
 <h1>
-  <img width="40" src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" />Hi, i'm Jonatan Ismael
+  <img width="40" src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" /> Hi, i'm Jonatan Ismael
 </h1>
-<hr>
 <ul>
   <li>👨‍💻 I’m currently working at Alm Brasil </li>
   <li>👨‍💼 I work as a back-end developer </li>
