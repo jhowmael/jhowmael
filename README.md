@@ -12,7 +12,7 @@
   <li>🎓 I'm majoring in computer engineering </li>
   <li>👨‍🎓 Currently studying Laravel </li>
 </ul>
-<h1></h1>
+<h1><img width="30" src="https://icons8.com.br/icon/2HelFW0YM7ou/counter" /> Stacks</h1>
 <h1>
     <div display="inline">
       <img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
