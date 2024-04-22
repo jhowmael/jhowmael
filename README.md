@@ -15,3 +15,7 @@
   &nbsp;&nbsp;
   <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
 </div>
+
+<img height="190em" src="https://github-readme-stats.vercel.app/api?username=jhowmael&show_icons=true&theme=omni&include_all_commits=true&count_private=true&border_radius=6&hide_border=true"/>
+ 
+<img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhowmael&layout=compact&langs_count=7&theme=omni&border_radius=6&hide_border=true"/>
