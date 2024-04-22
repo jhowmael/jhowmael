@@ -18,6 +18,7 @@
   <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhowmael&layout=compact&langs_count=7&theme=omni&border_radius=6&hide_border=true"/>
 </div>
 <hr>
+<p>
 <div display="inline">
   <img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
   &nbsp;&nbsp;
@@ -35,3 +36,4 @@
   &nbsp;&nbsp;
   <img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
 </div>
+</p>
