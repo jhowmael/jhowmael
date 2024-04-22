@@ -1,3 +1,12 @@
+<style>
+    /* Estilo para o hr */
+    hr {
+        border: none; /* Remove a borda padrão */
+        height: 1px; /* Define a altura em 1 pixel */
+        background-color: black; /* Define a cor */
+        margin: 20px 0; /* Define a margem para espaçamento */
+    }
+</style>
 <h1>
   <img width="30" src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" /> Hi, i'm Jonatan Ismael
 </h1>
