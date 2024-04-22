@@ -1,5 +1,5 @@
 <h1>
-  <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" />Hi, i'm Jonatan Ismael
+  <img width="40" src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" />Hi, i'm Jonatan Ismael
 </h1>
 <hr>
 <ul>
