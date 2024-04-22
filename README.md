@@ -1,10 +1,6 @@
 <style>
-    /* Estilo para o hr */
     hr {
-        border: none; /* Remove a borda padrão */
-        height: 1px; /* Define a altura em 1 pixel */
-        background-color: black; /* Define a cor */
-        margin: 20px 0; /* Define a margem para espaçamento */
+        height: 0.2px;
     }
 </style>
 <h1>
