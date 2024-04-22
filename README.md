@@ -1,8 +1,3 @@
-<style>
-    hr {
-        height: 0.2px;
-    }
-</style>
 <h1>
   <img width="35" src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" /> Hi, i'm Jonatan Ismael
 </h1>
