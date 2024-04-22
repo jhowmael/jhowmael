@@ -13,11 +13,6 @@
   <li>👨‍🎓 Currently studying Laravel </li>
 </ul>
 <h1></h1>
-<div display="inline">
-  <img height="190em" src="https://github-readme-stats.vercel.app/api?username=jhowmael&show_icons=true&theme=omni"/>
-  <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhowmael&layout=compact&langs_count=7&theme=omni&border_radius=6&hide_border=true"/>
-</div>
-<h1></h1>
 <h1>
     <div display="inline">
       <img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
@@ -37,3 +32,8 @@
       <img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
     </div>
 </h1>
+<div display="inline">
+  <img height="190em" src="https://github-readme-stats.vercel.app/api?username=jhowmael&show_icons=true&theme=omni"/>
+  <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhowmael&layout=compact&langs_count=7&theme=omni&border_radius=6&hide_border=true"/>
+</div>
+
