@@ -10,7 +10,7 @@
 <h1>🧮 Stacks</h1>
 <h1>
     <div display="inline">
-      <img width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+      <img width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
       &nbsp;&nbsp;
       <img width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
       &nbsp;&nbsp;
