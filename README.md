@@ -2,14 +2,16 @@
   <img width="35" src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" /> Hi, i'm Jonatan Ismael
 </h1>
 <ul>
-  <li>👨‍💻 I’m currently working at Alm Brasil </li>
+  <li>👨‍💻 I’m currently working at GBM Tech & Control </li>
   <li>👨‍💼 I work as a back-end developer </li>
   <li>🎓 I'm majoring in computer engineering </li>
-  <li>👨‍🎓 Currently studying Laravel </li>
+  <li>👨‍🎓 Currently studying Node </li>
 </ul>
 <h1>🧮 Stacks</h1>
 <h1>
     <div display="inline">
+      <img width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+      &nbsp;&nbsp;
       <img width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
       &nbsp;&nbsp;
       <img width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" />
