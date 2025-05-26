@@ -28,7 +28,7 @@
     </div>
 </h1>
 <div display="inline">
-  <img height="190em" src="https://github-readme-stats.vercel.app/api?username=jhowmael&show_icons=true&theme=omni"/>
-  <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhowmael&layout=compact&langs_count=7&theme=omni&border_radius=6&hide_border=true"/>
+  <img height="190em" src="https://github-readme-stats.vercel.app/api?username=jhowmael&show_icons=true&theme=github_dark"/>
+  <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhowmael&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
 
