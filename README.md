@@ -10,23 +10,24 @@
 <h1>🧮 Stacks</h1>
 <h1>
     <div display="inline">
-      <img width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
-      &nbsp;&nbsp;
       <img width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
       &nbsp;&nbsp;
-      <img width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
+      <img width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" />
+      &nbsp;&nbsp;
+      <img width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />
       &nbsp;&nbsp;
       <img width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" />
       &nbsp;&nbsp;
       <img width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cakephp/cakephp-original.svg" />
       &nbsp;&nbsp;
+      <img width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
+      &nbsp;&nbsp;
       <img width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"  />
       &nbsp;&nbsp;
-      <img width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" />
-      &nbsp;&nbsp;
       <img width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
-      &nbsp;&nbsp;
       <img width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+      &nbsp;&nbsp;
+      <img width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
       &nbsp;&nbsp;
       <img width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
     </div>
