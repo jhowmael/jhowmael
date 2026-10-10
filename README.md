@@ -11,7 +11,7 @@
   <a href="mailto:jonatan.ismael996@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </div>
 
-## <img align="left" width="30" src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" />   About me
+## <img align="left" width="30" src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" /> About me
 
 I'm a **full-stack developer** and **Computer Engineer**. I build and maintain web applications end to end, from APIs and databases to the interface. I work across the **Node.js/TypeScript**, **C#/.NET** and **PHP** ecosystems, with both relational and NoSQL databases.
 
