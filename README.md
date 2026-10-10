@@ -9,7 +9,6 @@
   <a href="https://www.linkedin.com/in/jonatan-ismael-dos-santos-182326219" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://wa.me/5513996662857" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
   <a href="mailto:jonatan.ismael996@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <img src="https://komarev.com/ghpvc/?username=jhowmael&style=for-the-badge&color=14B8A6&label=Profile+views" />
 </div>
 
 ## 👋 About me
