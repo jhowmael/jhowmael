@@ -13,8 +13,6 @@
 
 ## 👋 About me
 
-<img align="right" width="35" src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" />
-
 I'm a **full-stack developer** and **Computer Engineer**. I build and maintain web applications end to end, from APIs and databases to the interface. I work across the **Node.js/TypeScript**, **C#/.NET** and **PHP** ecosystems, with both relational and NoSQL databases.
 
 - 💼 Full-stack Developer at **ArchOffice**
