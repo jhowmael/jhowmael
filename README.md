@@ -50,3 +50,4 @@ I'm a **full-stack developer** and **Computer Engineer**. I build and maintain w
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2DD4BF,100:0F766E&height=100&section=footer" />
+
