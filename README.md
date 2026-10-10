@@ -11,9 +11,7 @@
   <a href="mailto:jonatan.ismael996@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </div>
 
-## 👋 About me
-
-<img align="right" width="35" src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" />
+## <img width="30" src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" /> About me
 
 I'm a **full-stack developer** and **Computer Engineer**. I build and maintain web applications end to end, from APIs and databases to the interface. I work across the **Node.js/TypeScript**, **C#/.NET** and **PHP** ecosystems, with both relational and NoSQL databases.
 
@@ -24,15 +22,18 @@ I'm a **full-stack developer** and **Computer Engineer**. I build and maintain w
 ## 🛠️ Tech Stack
 
 <div align="center">
+  <!-- Languages -->
   <img width="40" title="TypeScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />&nbsp;&nbsp;
   <img width="40" title="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />&nbsp;&nbsp;
+  <img width="40" title="C#" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />&nbsp;&nbsp;
+  <img width="40" title="PHP" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />&nbsp;&nbsp;
+  <!-- Frameworks & Runtimes -->
   <img width="40" title="Node.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />&nbsp;&nbsp;
   <img width="40" title="NestJS" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" />&nbsp;&nbsp;
-  <img width="40" title="C#" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />&nbsp;&nbsp;
   <img width="40" title=".NET" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" />&nbsp;&nbsp;
-  <img width="40" title="PHP" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />&nbsp;&nbsp;
   <img width="40" title="Laravel" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" />&nbsp;&nbsp;
   <img width="40" title="CakePHP" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cakephp/cakephp-original.svg" />&nbsp;&nbsp;
+  <!-- Databases -->
   <img width="40" title="PostgreSQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />&nbsp;&nbsp;
   <img width="40" title="MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />&nbsp;&nbsp;
   <img width="40" title="MongoDB" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" />
