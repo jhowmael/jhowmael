@@ -1,5 +1,5 @@
 <!-- Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F766E,50:14B8A6,100:0EA5E9&height=160&section=header&text=Jonatan%20Ismael&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Full-stack%20Developer&descAlignY=58&descSize=18" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1E3A8A,50:2563EB,100:38BDF8&height=160&section=header&text=Jonatan%20Ismael&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Full-stack%20Developer&descAlignY=58&descSize=18" />
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Full-stack+Developer+%40+ArchOffice;Node.js+%7C+NestJS+%7C+C%23+%2F+.NET+%7C+PHP;Computer+Engineer" />
@@ -42,8 +42,8 @@ I'm a **full-stack developer** and **Computer Engineer**. I build and maintain w
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=jhowmael&show_icons=true&include_all_commits=true&count_private=true&card_width=495&border_radius=10&hide_border=true&bg_color=0D1117&title_color=2DD4BF&icon_color=FBBF24&text_color=E6EDF3&ring_color=FB7185" />
-  <img width="49%" src="https://streak-stats.demolab.com?user=jhowmael&hide_border=true&border_radius=10&background=0D1117&ring=FB7185&fire=FBBF24&currStreakLabel=2DD4BF&sideLabels=38BDF8&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E&stroke=30363D" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=jhowmael&show_icons=true&include_all_commits=true&count_private=true&card_width=495&border_radius=10&hide_border=true&bg_color=0D1117&title_color=60A5FA&icon_color=FBBF24&text_color=E6EDF3&ring_color=FB7185" />
+  <img width="49%" src="https://streak-stats.demolab.com?user=jhowmael&hide_border=true&border_radius=10&background=0D1117&ring=FB7185&fire=FBBF24&currStreakLabel=60A5FA&sideLabels=38BDF8&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E&stroke=30363D" />
 </div>
 
 <div align="center">
@@ -51,4 +51,4 @@ I'm a **full-stack developer** and **Computer Engineer**. I build and maintain w
   <img width="34%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jhowmael&theme=github_dark&utcOffset=-3" />
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,50:14B8A6,100:0F766E&height=100&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,50:2563EB,100:1E3A8A&height=100&section=footer" />
