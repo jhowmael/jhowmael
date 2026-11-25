@@ -15,7 +15,7 @@
 
 I'm a **full-stack developer** and **Computer Engineer**. I build and maintain web applications end to end, from APIs and databases to the interface. I work across the **Node.js/TypeScript**, **C#/.NET** and **PHP** ecosystems, with both relational and NoSQL databases.
 
-- 💼 Full-stack Developer at **ArchOffice**
+- 💼 Full-stack Developer at **Marimex**
 - 🎓 Bachelor's degree in Computer Engineering
 - 🤝 Open to new opportunities and collaborations
 
